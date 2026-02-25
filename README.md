@@ -100,11 +100,11 @@ Controller performance is evaluated using:
 2. Open MATLAB  
 3. Run the script:
 
-   ```matlab
-  pid_motor_control.m
+  ```matlab
+  pid_control_motor.m
   ```
 
-4. Observe step response, root locus, and disturbance response plots
+4. Observe voltage, temperature, SOC plots and fault status output
 
 ---
 
