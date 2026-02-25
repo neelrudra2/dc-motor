@@ -112,4 +112,4 @@ Controller performance is evaluated using:
 1. MATLAB
 2. Control Systems Toolbox
 3. Transfer Function Modeling
-4. 4. PID Controller Design
+4. PID Controller Design
