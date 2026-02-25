@@ -78,9 +78,27 @@ Controller performance is evaluated using:
 
 ---
 
-## 🖼️ Sample Output Graphs
+## 📊 Controller Analysis & Performance
 
-*(Add step response, root locus, and disturbance response plots here)*
+<p align="center">
+  <img src="root-locus-dc.jpg" width="70%">
+  <br><b>Root Locus of DC Motor (Stability Analysis)</b>
+</p>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="cl-comp.jpg" width="100%">
+      <br><b>Manual vs Auto PID Step Response</b>
+    </td>
+    <td align="center">
+      <img src="resp-load-dist.jpg" width="100%">
+      <br><b>Response under Load Disturbance</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
