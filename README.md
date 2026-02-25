@@ -113,6 +113,3 @@ Controller performance is evaluated using:
 2. Control Systems Toolbox
 3. Transfer Function Modeling
 4. 4. PID Controller Design
-
-```matlab
-pid_motor_control.m
