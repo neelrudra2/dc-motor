@@ -99,9 +99,11 @@ Controller performance is evaluated using:
 1. Clone or download the repository  
 2. Open MATLAB  
 3. Run the script:
+
    ```matlab
   pid_motor_control.m
   ```
+
 4. Observe step response, root locus, and disturbance response plots
 
 ---
