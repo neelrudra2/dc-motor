@@ -104,7 +104,7 @@ Controller performance is evaluated using:
   pid_control_motor.m
   ```
 
-4. Observe voltage, temperature, SOC plots and fault status output
+4. Observe step response, root locus, and disturbance response plots
 
 ---
 
